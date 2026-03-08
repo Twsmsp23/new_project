@@ -1,0 +1,69 @@
+GDD(Game Design Document)
+Game Overview
+Game Title : Untamed Earth : Escape from the ghats
+Genre:
+Open World exploration
+Adventure
+Survival
+Platform:
+PC
+Game Style:
+Third-Person cinematic cameras
+Settings:
+Western Ghats jungle with mountains, waterfall, rain,
+fog, thunder stromes
+Story
+A group of 7 friends travel to the Western Ghats jungle
+for a camping trip. During a thunderStrom night
+everyone go to their tends but one of them forget to take
+his jacket that hang in a tree from there he go missing
+after sometime his tent mate comes and tell to others
+and started to find him and find different clues and finally
+they find but after they go missing in the dense forest
+and there survival to get out and the end of the final
+escape the main character got faint and downed by a
+tiger he gives his life for his friends and the story ends
+with and emotion.
+Characters
+Abhiram - Main character
+Aliyha - Missing Frined
+Sajid- Planner
+Akhila - Nervous Friend
+Steffy - Adventure
+Shanto - Supportive friend
+Gameplay Mechanics
+Third-person exploration
+Player movement and sprint
+Stamina System
+Day and night Cycle
+Weather system (rain, fog, thunderstorm)
+Animal encounters
+Story missions
+World Design
+Map size: 1km prototype world
+Environment:
+Dense forest
+Waterfall
+Rocky mountains
+Abandoned hut
+Camp site
+Level Structure
+Camp site (intro)
+⬇
+Jungle Exploration
+⬇
+Waterfall area
+⬇
+Abandoned hut
+⬇
+Find missing friend
+⬇
+Mountain escape point
+Technical Plan
+Game Engine: Unreal Engine
+Environmental Assets: Quixel Megascans
+3D Modelling: Blender
+Version Control: GitHub
+Team Roles
+Shifin - Environment building, terrain, lighting
+Adhil - Gameplay systems, logic, story design
